@@ -37,7 +37,7 @@ BDShop商城系统是B2C模式的电子商城
 
 
 ## 此项目用到的技术
-  spring boot mybatis node.js
+  spring boot mybatis node.js(7.0(包括)版本以下)
 
 ## 注意事项
    
